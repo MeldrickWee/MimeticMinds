@@ -1,0 +1,3 @@
+# MimeticMinds
+
+Project in progress...
