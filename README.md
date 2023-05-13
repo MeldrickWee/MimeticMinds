@@ -1,7 +1,7 @@
 # Mimetic Minds
 
 
-Introducing "Mimetic Minds" - a project inspired by the groundbreaking paper "Generative Agents: Interactive Simulacra of Human Behavior." 
+Introducing "Mimetic Minds" - a project inspired by the novel paper "Generative Agents: Interactive Simulacra of Human Behavior." 
 
 Mimetic: relating to, characterized by, or exhibiting mimicry
 
